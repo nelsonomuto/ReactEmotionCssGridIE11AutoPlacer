@@ -1,0 +1,464 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`react component wrapper 1`] = `
+<div
+  className="css-mjwwwb-AutoPlace"
+  data-auto-placer-container={true}
+  data-children={5}
+  data-col-length={5}
+>
+  <div
+    className="css-1tdfgk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child one
+    </p>
+  </div>
+  <div
+    className="css-1pi500h"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 2;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h2>
+      child two
+    </h2>
+  </div>
+  <div
+    className="css-zzqq5x"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 3;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child three
+    </p>
+  </div>
+  <div
+    className="css-bh2j43"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 4;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h3>
+      child four
+    </h3>
+  </div>
+  <div
+    className="css-17v5j8a"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 5;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <div>
+      child five
+    </div>
+  </div>
+</div>
+`;
+
+exports[`react component wrapper 2`] = `
+<div
+  className="css-1emvw2y-AutoPlace"
+  colLength={3}
+  data-auto-placer-container={true}
+  data-children={5}
+  data-col-length={3}
+>
+  <div
+    className="css-1tdfgk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child one
+    </p>
+  </div>
+  <div
+    className="css-1pi500h"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 2;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h2>
+      child two
+    </h2>
+  </div>
+  <div
+    className="css-zzqq5x"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 3;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child three
+    </p>
+  </div>
+  <div
+    className="css-1bmyan6"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h3>
+      child four
+    </h3>
+  </div>
+  <div
+    className="css-o4ag6j"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 2;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <div>
+      child five
+    </div>
+  </div>
+</div>
+`;
+
+exports[`react component wrapper 3`] = `
+<div
+  className="css-1xx69yo-AutoPlace"
+  colLength={4}
+  data-auto-placer-container={true}
+  data-children={5}
+  data-col-length={4}
+>
+  <div
+    className="css-1tdfgk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child one
+    </p>
+  </div>
+  <div
+    className="css-1pi500h"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 2;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h2>
+      child two
+    </h2>
+  </div>
+  <div
+    className="css-zzqq5x"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 3;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child three
+    </p>
+  </div>
+  <div
+    className="css-bh2j43"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 4;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h3>
+      child four
+    </h3>
+  </div>
+  <div
+    className="css-1bmyan6"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <div>
+      child five
+    </div>
+  </div>
+</div>
+`;
+
+exports[`react component wrapper 4`] = `
+<div
+  className="css-158rfps-AutoPlace"
+  colLength={1}
+  data-auto-placer-container={true}
+  data-children={5}
+  data-col-length={1}
+>
+  <div
+    className="css-1tdfgk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child one
+    </p>
+  </div>
+  <div
+    className="css-1bmyan6"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h2>
+      child two
+    </h2>
+  </div>
+  <div
+    className="css-1em999r"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 3;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      child three
+    </p>
+  </div>
+  <div
+    className="css-13j0lfc"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 4;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h3>
+      child four
+    </h3>
+  </div>
+  <div
+    className="css-1g6amma"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 5;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <div>
+      child five
+    </div>
+  </div>
+</div>
+`;
+
+exports[`react component wrapper 5`] = `
+<div
+  className="css-mjwwwb-AutoPlace"
+  colLength={5}
+  data-auto-placer-container={true}
+  data-children={9}
+  data-col-length={5}
+>
+  <div
+    className="css-1tdfgk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 1
+    </p>
+  </div>
+  <div
+    className="css-1pi500h"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 2;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 1
+    </p>
+  </div>
+  <div
+    className="css-zzqq5x"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 3;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 1
+    </p>
+  </div>
+  <div
+    className="css-bh2j43"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 4;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 1
+    </p>
+  </div>
+  <div
+    className="css-17v5j8a"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 5;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 1
+    </p>
+  </div>
+  <div
+    className="css-1bmyan6"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 2
+    </p>
+  </div>
+  <div
+    className="css-o4ag6j"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 2;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 2
+    </p>
+  </div>
+  <div
+    className="css-1ec5bbe"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 3;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 2
+    </p>
+  </div>
+  <div
+    className="css-153fhk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 4;
+      -ms-grid-row: 2;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <p>
+      Test grandChildren 2
+    </p>
+  </div>
+</div>
+`;
+
+exports[`react component wrapper 6`] = `
+<div
+  className="css-1c90ywa-AutoPlace"
+  data-auto-placer-container={true}
+  data-children={0}
+  data-col-length={0}
+/>
+`;
+
+exports[`react component wrapper 7`] = `
+<div
+  className="css-158rfps-AutoPlace"
+  data-auto-placer-container={true}
+  data-children={1}
+  data-col-length={1}
+>
+  <div
+    className="css-1tdfgk4"
+    data-auto-placer-item={true}
+    data-auto-placer-styles="
+      -ms-grid-column: 1;
+      -ms-grid-row: 1;
+    "
+    data-has-unset-css-styles={false}
+  >
+    <h1>
+      Single
+    </h1>
+  </div>
+</div>
+`;
